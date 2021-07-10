@@ -1,5 +1,5 @@
 # Snake-Game-ARM-Assembly
-Snake game implementation using Cortex M0 ARM Assembly on a 240*360 LCD.
+Snake game implementation using Cortex M0 ARM Assembly on a 320x240 LCD.
 
 <img src="https://user-images.githubusercontent.com/42515502/125162057-95d06400-e18e-11eb-93fa-647fcbcee682.gif" width="425" height="250"/>
 
